@@ -1,0 +1,22 @@
+{
+  "name": "spoticoncerts",
+  "version": "1.0.0",
+  "description": "Concert finding app using spotify pref",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanbae115/spoticoncerts.git"
+  },
+  "author": "Sean Bae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanbae115/spoticoncerts/issues"
+  },
+  "homepage": "https://github.com/seanbae115/spoticoncerts#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
